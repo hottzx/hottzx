@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear 👋, I'm hottzx</h1>
+<h1 align="center">hi guys 👋, I'm hottzx</h1>
 
 - 🔭 I’m currently working on [WSA](wsysteminformatica)
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL**
