@@ -1,6 +1,5 @@
 ## Hello i'm hottzx 🖐️
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNbzdh4uaSoHZ6k6FdrmixA)
 
 ![hottzx GitHub stats](https://github-readme-stats.vercel.app/api?username=hottzx&show_icons=true&theme=merko)
 
@@ -22,9 +21,4 @@
   
 </div><br/>
 
-
-
-### Últimos videos:
-- [Inserindo backdoor em apps android - Kali linux](https://www.youtube.com/watch?v=unBNFEOdmk0&t=281s)<br/>
-- [como os hackers conseguem acessar a Câmera do seu Celular - Kali linux](https://www.youtube.com/watch?v=QmqulfVqzO4&t=3s)<br/>
 
